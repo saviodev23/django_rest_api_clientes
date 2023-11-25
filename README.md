@@ -41,5 +41,5 @@ Acesse a API em [http://localhost:8000/usuarios/](http://localhost:8000/api/usua
 
 
 ## imagem da página
+![consumer_api](https://github.com/saviodev23/django_rest_api_clientes/assets/132952225/aea5142e-4ef3-4d88-b9af-aa246dd8a8ee)
 
-![consumer_api.png](..%2F..%2FPictures%2FScreenshots%2Fconsumer_api.png)
