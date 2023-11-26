@@ -11,3 +11,5 @@ urlpatterns = [
     path('usuarios/', include('clientes.urls')),
     # path('', include(router.urls)),
 ]
+
+#Para rodar a API própria, decomente os imports e o path

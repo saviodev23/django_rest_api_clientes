@@ -1,4 +1,4 @@
-# Django REST API - Consumindo API Pública de Cadastros de Usuários
+# Django REST API - Consumindo API Pública de Dados de Cadastros de Usuários
 
 Este é um projeto Django REST API desenvolvido para demonstrar como consumir uma API pública de cadastros de usuários. O objetivo principal é mostrar como integrar e utilizar dados de uma API externa em um projeto Django.
 
@@ -43,3 +43,8 @@ Acesse a API em [http://localhost:8000/usuarios/](http://localhost:8000/api/usua
 ## imagem da página
 
 ![consumer_api.png](..%2F..%2FPictures%2FScreenshots%2Fconsumer_api.png)
+
+## Com esse projeto também possibilita ter a criação de uma própria API do Django, utilizando o Django_rest_framework_api
+
+Para fazer isso, apenas comente a parte do código que faz o consumo da API pública e descomente a parte que faz a criação da API própria.
+### Imagem da página
