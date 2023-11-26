@@ -43,3 +43,6 @@ Acesse a API em [http://localhost:8000/usuarios/](http://localhost:8000/api/usua
 ## imagem da página
 
 ![consumer_api.png](..%2F..%2FPictures%2FScreenshots%2Fconsumer_api.png)
+
+
+fazendo teste
