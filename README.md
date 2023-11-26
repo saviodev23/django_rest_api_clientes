@@ -44,5 +44,7 @@ Acesse a API em [http://localhost:8000/usuarios/](http://localhost:8000/api/usua
 
 ![consumer_api.png](..%2F..%2FPictures%2FScreenshots%2Fconsumer_api.png)
 
+### Neste projeto também é possível fazer a criação da própria API do django. Isso é possivel utilizando o django rest framework.
+Para fazer com que rode a própria API, retire os comentários do código nos arquivos views.py localizado no app "clientes" e urls.py que está na pasta "setup" do projeto.
 
-fazendo teste
+### Imagens da página
